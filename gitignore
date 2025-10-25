@@ -1,0 +1,17 @@
+# dependencies
+/node_modules
+/.expo
+/web-build
+/dist
+
+# macOS
+.DS_Store
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# build output
+/android/build
+/ios/build
